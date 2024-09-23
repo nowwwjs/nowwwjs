@@ -20,8 +20,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/Node.js-#5FA04E?style=for-the-badge&logo=Node.js&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/Next.js-#000000?style=for-the-badge&logo=Next.js&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=ffdd54" />&nbsp
   
 </div>
 
