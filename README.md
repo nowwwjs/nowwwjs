@@ -60,7 +60,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
+  <a href="https://blog.naver.com/starve1304">
     <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
   </a>
   <a href="mailto:oka1313@gmail.com">
