@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E029F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+%5B%EC%9D%B4%EC%9E%AC%EC%84%9C%5D+%F0%9F%91%8B;Always+learning+and+growing+%F0%9F%92%A1" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E029F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+%5B%EC%9D%B4%EC%9E%AC%EC%84%9C%5D+%F0%9F%91%8B;Always+learning+and+growing+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <!--내용 부분-->
