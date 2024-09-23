@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E029F7&width=435&lines=Hello%2C+I'm+%5B%EC%9D%B4%EC%9E%AC%EC%84%9C%5D+%F0%9F%91%8B;Always+learning+and+growing+%F0%9F%92%A1)](https://git.io/typing-svg)
 </div>
 
 <!--내용 부분-->
